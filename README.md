@@ -1,6 +1,7 @@
 # 📚 Library Management System
 
-A simple **Library Management System** built with Python and Tkinter.  
+A simple **Library Management System** built with Python and Tkinter. 
+It's very beginner friendly.
 This program allows users to **view books, search, add new books, borrow, and return books**.
 
 ## 🎯 Features:
@@ -13,7 +14,6 @@ This program allows users to **view books, search, add new books, borrow, and re
 ## 🛠️ Technologies Used:
 - Python 🐍
 - Tkinter (GUI Library)
-- JSON (for storing book data) *(if added)*
 
 ## 🚀 How to Run:
 1. **Clone the repository** (after uploading to GitHub):  
